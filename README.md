@@ -1,8 +1,8 @@
 # Workshops in France Events
 
-This works in tandem with wifapp to push events to a database, viewable on the Flutter app. Visit here (https://wifapp.web.app/)
+This works in tandem with mobile Flutter app wifapp (https://github.com/starogre/wifapp) to push events to a database. Visit here (https://wifapp.web.app/) to see it.
 
-Features viewable only by administrator privilege.
+\*Features viewable only by administrator privilege.
 
 # React + Vite
 
